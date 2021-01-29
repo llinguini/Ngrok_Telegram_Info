@@ -22,7 +22,7 @@ Uso:
 En el bot de telegram:
 1. pon /start
 2. Pon /status (es el comando por defecto)
-============================================================================
+=========================================================================
 Get information and URLS of your NGROK secion
 
 Methods acepted:
@@ -45,4 +45,4 @@ Use:
 On the telegram bot:
 1. Put /start (to start the bot)
 2. Puto /status (defauld comand, you can change it)
-============================================================================
+=========================================================================
