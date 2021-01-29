@@ -2,9 +2,6 @@
 Get ngrok info in telegram by a .py file
 
 
-============================================================================
-Obten informacion y URLS de NGROK
-
 Metodos admitidos:
 - TCP
 - UDP
