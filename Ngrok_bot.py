@@ -8,9 +8,9 @@
 #############################################################
 import botogram
 from pyngrok import ngrok
-bot = botogram.create("1185600306:AAGBGVetBBb4qD_p_akhf-kAwynR_Ysdj7U")
+bot = botogram.create("TU TOKEN DEL BOT")
 tunnels = ngrok.get_tunnels()
-ngrok.set_auth_token("1ngAAGJIWhNSGkJpp8ObYEFgO6u_mVmd3GxYMFPTGSHxUUJZ")
+ngrok.set_auth_token("TU TOKEN DE NGROK (dejar en blanco para no usar)")
 
 #Custome ports for ngrok  (port, udp/tcp/HTML)
 ssh_tunnel = ngrok.connect(21, "tcp")
